@@ -1,0 +1,41 @@
+/*Webpages stylesheet*/
+
+h1, h3{
+  color:#99ccff;
+  /*font-size:12px;*/
+  font-family: Roboto Slab;
+}
+ body{
+   font-family: Roboto Slab;
+   background-color:rgb(255, 255, 128);
+}
+#Fun{
+  color: blue;
+}
+.green{
+  color:green;
+}
+#daisy{
+  position: relative;
+}
+ul{
+  lisy-style-type: none;
+}
+li{
+display: inline;
+margin-right: 20px;
+}
+a {
+  text-decoration:none;
+}
+#wrapperHeader{
+    position: relative;
+    background-image:url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBwOuKxJXcAhXGlFQKHexBAksQjRx6BAgBEAU&url=https%3A%2F%2Fwww.americanmeadows.com%2Fperennials%2Fshasta-daisy&psig=AOvVaw2hGAGPKgzNAqOxFSJqmKxj&ust=1531346393205646);
+}
+
+#header{
+    left: 50%;
+    margin-left: -500px;
+    background:url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiBwOuKxJXcAhXGlFQKHexBAksQjRx6BAgBEAU&url=https%3A%2F%2Fwww.americanmeadows.com%2Fperennials%2Fshasta-daisy&psig=AOvVaw2hGAGPKgzNAqOxFSJqmKxj&ust=1531346393205646) no-repeat;
+    width:1000px;
+    height:200px;
